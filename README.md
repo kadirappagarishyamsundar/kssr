@@ -3,8 +3,8 @@
 A small web app that shows, for each delivery day in the pilot period, the national wind forecast a buyer
 actually had when making the day-ahead decision, and how accurate those forecasts were against actual generation.
 
-**Live app:** <FRONTEND_URL>  
-**API:** <BACKEND_URL>/docs  
+**Live app:** https://kssr-i11s.vercel.app 
+**API:** https://kssr-nine.vercel.app/docs   
 **Demo video:** <YOUTUBE_URL>
 
 ## Scope and key assumptions
