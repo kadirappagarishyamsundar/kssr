@@ -5,7 +5,7 @@ actually had when making the day-ahead decision, and how accurate those forecast
 
 **Live app:** https://kssr-i11s.vercel.app 
 **API:** https://kssr-nine.vercel.app/docs   
-**Demo video:** <YOUTUBE_URL>
+**Demo video:** https://youtu.be/u6TxcmL-J5c
 
 ## Scope and key assumptions
 - Data: Elexon only. Actuals = FUELHH (`fuelType=WIND`, half-hourly). Forecasts = WINDFOR (hourly, many versions per target hour).
